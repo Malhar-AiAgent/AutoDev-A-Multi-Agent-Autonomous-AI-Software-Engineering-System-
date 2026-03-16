@@ -1,0 +1,2 @@
+Develop a To-Do List App. The frontend should allow users to add, delete, edit and view their daily tasks easily. The app does not require user authentication and should work for a single user.
+The UI should be more visually appealing and beginner-friendly.
