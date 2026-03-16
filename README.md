@@ -81,7 +81,7 @@ Reviewer Agent → Improves code quality
 ### Final Output:
 A structured software solution generated through agent collaboration.
 
-#### 🔬 Research Motivation
+### 🔬 Research Motivation
 
 Traditional AI coding assistants focus on generating code through a single model interaction.
 
@@ -99,7 +99,7 @@ AI-assisted software engineering
 
 Artificial General Intelligence (AGI) architectures
 
-#### 🔮 Future Work
+### 🔮 Future Work
 
 Possible extensions of the AutoDev system include:
 
